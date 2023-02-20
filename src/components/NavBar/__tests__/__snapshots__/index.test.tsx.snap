@@ -1,0 +1,49 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`component NavBar Should render without crashing 1`] = `
+<DocumentFragment>
+  <div>
+    <header>
+      <div
+        class="heading"
+      >
+        <h2>
+          The Artifact
+        </h2>
+        <h4>
+          <em>
+             Culture 
+          </em>
+          & 
+          <em>
+            Art
+          </em>
+           Blog
+        </h4>
+      </div>
+    </header>
+    <div
+      class="navBar"
+    >
+      <nav>
+        <a
+          href="#"
+        >
+          Blog
+        </a>
+        <a
+          href="#"
+        >
+          About
+        </a>
+        <a
+          class="contactLink"
+          href="#"
+        >
+          Contact
+        </a>
+      </nav>
+    </div>
+  </div>
+</DocumentFragment>
+`;
