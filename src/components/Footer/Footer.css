@@ -1,0 +1,21 @@
+footer {
+  flex: none;
+  height: 48px;
+  background-color: black;
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  /* position: fixed; */
+  /* bottom: 0; */
+}
+footer > .footerHeading > h4 {
+  color: white;
+}
+footer > .footerHeading {
+  width: 80%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+  justify-content: center;
+}

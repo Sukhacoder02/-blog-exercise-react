@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Component Footer renders without crashing 1`] = `
+<DocumentFragment>
+  <footer>
+    <div
+      class="footerHeading"
+    >
+      <h4>
+        @artifact.com 2023
+      </h4>
+    </div>
+  </footer>
+</DocumentFragment>
+`;
