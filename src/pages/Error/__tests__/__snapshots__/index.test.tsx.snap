@@ -1,6 +1,6 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Page BlogPage Should render without crashing 1`] = `
+exports[`Page Error Should render without crashing 1`] = `
 <DocumentFragment>
   <div
     class="body"
@@ -52,10 +52,13 @@ exports[`Page BlogPage Should render without crashing 1`] = `
       id="main"
     >
       <div
-        class="blogDataError"
+        class="errorDiv"
       >
+        <h2>
+          Something went wrong
+        </h2>
         <p>
-          Loading...
+          HTTP Status Code: 404
         </p>
       </div>
     </div>
