@@ -1,9 +1,10 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`Component Card Shoud render without crashing 1`] = `
+exports[`Component Card Should render without crashing 1`] = `
 <DocumentFragment>
   <div
     class="card"
+    data-testid="card"
   >
     <div
       class="img"
@@ -11,7 +12,7 @@ exports[`Component Card Shoud render without crashing 1`] = `
       <img
         alt="Image"
         class="cardImage"
-        src="/Images/abstract.png"
+        src="abstract.png"
       />
     </div>
     <div
@@ -21,7 +22,7 @@ exports[`Component Card Shoud render without crashing 1`] = `
         class="textBelowImage"
       >
         <p>
-          2nd January, 2018
+          Invalid Date
         </p>
         <p>
           2 mins
