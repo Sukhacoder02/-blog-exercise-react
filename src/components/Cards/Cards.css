@@ -8,3 +8,9 @@
   justify-content: space-between;
   gap: 20px 20px;
 }
+
+.blogDataError {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
