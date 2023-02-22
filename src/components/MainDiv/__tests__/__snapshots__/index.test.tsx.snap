@@ -6,8 +6,12 @@ exports[`Component MainDiv Should render without crashing 1`] = `
     id="main"
   >
     <div
-      class="cards"
-    />
+      class="blogDataError"
+    >
+      <p>
+        Loading...
+      </p>
+    </div>
   </div>
 </DocumentFragment>
 `;
